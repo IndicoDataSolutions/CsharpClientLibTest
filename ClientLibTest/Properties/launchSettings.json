@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ClientLibTest": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\Users\\dzere\\Documents\\datasets\\isda\\"
+    }
+  }
+}
